@@ -1,0 +1,30 @@
+@charset "utf-8";
+/* CSS Document */
+
+.input{
+    border: 1px solid red;
+    width:50%;
+    margin:auto;
+    height:40px;
+    font-size:100%;
+    box-sizing: border-box;
+    outline: none;
+    background:#FAFAFA;
+}
+.button{
+    background-color: red;
+    border: none;
+    color: white;
+    padding:15px 30px 15px 30px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 17px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius:4px;
+}
+.links{
+    text-align:Center;
+    font-family:arial;
+    color:#00BFFF;
+}
